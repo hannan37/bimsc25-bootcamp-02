@@ -23,10 +23,11 @@
 
 .flexRow {
     display: flex;
+
 }
 
 #about {
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 .menuItem {
